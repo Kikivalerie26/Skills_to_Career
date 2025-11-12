@@ -44,7 +44,7 @@ This project aims to:
 
 ---
 
-## 👥 2. Primary Stakeholders
+## 2. Primary Stakeholders
 
 Insights from this project are essential for multiple internal and external stakeholders.
 
@@ -73,7 +73,7 @@ Insights from this project are essential for multiple internal and external stak
 
 ---
 
-## ❓ 3. Key Business Questions
+##  3. Key Business Questions
 
 To ensure actionable insights, the analysis will address the following critical questions:
 
@@ -86,7 +86,7 @@ To ensure actionable insights, the analysis will address the following critical 
 
 ---
 
-## 💡 4. Expected Insights & Deliverables
+##  4. Expected Insights & Deliverables
 
 The analysis will generate insights in the following areas:
 
@@ -101,7 +101,7 @@ The analysis will generate insights in the following areas:
 
 ---
 
-## 🧭 5. Strategic Impact
+##  5. Strategic Impact
 
 By leveraging complaint analytics, Bank of America can:
 
@@ -113,7 +113,7 @@ By leveraging complaint analytics, Bank of America can:
 
 ---
 
-### 📅 Reporting Period
+###  Reporting Period
 
 **Data Range:** 2017 – 2023
 **Data Source:** Consumer Financial Protection Bureau (CFPB) Complaint Database
