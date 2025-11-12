@@ -1,8 +1,5 @@
 # Business Report
 
-Of course bestie 💼✨—here’s a **clean, professional, and GitHub-ready version** of your **Week 1 Report: Understanding the Problem of Bank of America Consumer Complaints Analysis (Finance Industry)**.
-It’s formatted in **Markdown**, so it looks great on GitHub with clear hierarchy, readability, and structure.
-
 ---
 
 # Week 1 Report
@@ -11,7 +8,7 @@ It’s formatted in **Markdown**, so it looks great on GitHub with clear hierarc
 
 ---
 
-## 🏦 1. Business Problem
+##  1. Business Problem
 
 **Overview:**
 Bank of America (BoA), one of the largest financial institutions in the United States, has been experiencing a **high volume of consumer complaints** across its major financial products and services — including **credit cards, loans, mortgages, and deposit accounts**.
