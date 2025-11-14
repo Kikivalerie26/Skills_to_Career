@@ -83,11 +83,11 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 | Column Name | Description |
 |-------------|-------------|
 | `complaint_id` | Unique identifier for each customer |
-| `complaint_channel` | Type of event: product view, cart open, or purchase |
-| `date_submitted` | Product category code |
-| `date_received` | Brand name of the product |
-| `state_abbrv` | Product price in USD |
-| `state_name` | Date of user activity (YYYY-MM-DD) |
+| `complaint_channel` | Type of channel complaint was submitted: web, phone, email, fax, referral, postal mail. |
+| `date_submitted` | Date consumer submitted the complaint. |
+| `date_received` |The date the CFPB received the complaint. |
+| `state_abbrv` | Two-letter state abbreviation. |
+| `state_name` | Full state name |
 | `product` | Product price in USD |
 | `sub_product` | Date of user activity (YYYY-MM-DD) |
 | `issue` | Product price in USD |
