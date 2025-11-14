@@ -17,13 +17,13 @@ Bank of America is one of the largest financial institutions in the U.S., yet co
 These complaints highlight challenges around:
 
 **Customer experience and transparency**
-   Confusing fees, unclear communication, and unsatisfactory resolutions.
+<br>•Confusing fees, unclear communication, and unsatisfactory resolutions.
 **Operational efficiency**
-  Delays in processing disputes, loan applications, or transaction issues.
+<br>•Delays in processing disputes, loan applications, or transaction issues.
 **Compliance and regulatory performance**
-  Concerns about fair credit reporting, improper charges, and regulation breaches.
+<br>•Concerns about fair credit reporting, improper charges, and regulation breaches.
 **Service delays and ineffective resolutions**
-  Slow response times and inconsistent outcomes impacting customer satisfaction.
+<br>•Slow response times and inconsistent outcomes impacting customer satisfaction.
    
 ---
 
