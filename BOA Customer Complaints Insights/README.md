@@ -117,30 +117,40 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 
 | Sheet Name | Description |
 |------------|-------------|
-| `Table of Contents` | Organized index of all sheets and their purposes |
-| `Executive Summary` | High-level summary of results and key insights |
-| `conversion_funnel` | Pivot table showing user flow and conversion rates |
-| `retention_rates` | Table with calculated cohort retention percentages |
-| `cohort_analysis` | Pivot table with unique user counts per cohort age |
-| `purchase_activity` | Filtered purchases dataset, with additional cohort columns |
-| `first_purchase` | Pivot table displaying first purchase dates per user |
-| `raw_user_activity` | Full original raw event logs from the Shopify App |
+| `Business Problem Report` | Structured documentation outlining the core business problem, project goals, and the purpose of each analytical component |
+| `Cleaned and Transformed Dataset Report` | High-level summary of the cleaning steps, and the and key insights |
+| `Interactive Dashboard` | A multi-page Power BI dashboard visualizing complaint trends, product issues, geographic distribution, and responsiveness metrics |
+| `Insights & Recommendation Report` | A detailed interpretation of insights across products, issues, regions, and channels, along with data-driven recommendations to improve service quality and reduce complaints |
+| `Executive Summary` | A high-level overview of dataset performance metrics, key findings, major complaint drivers, and overall patterns identified during the analysis |
+
 
 ---
 
 ##  Learnings and Assumptions
 
-- Each `user_id` was treated as a unique individual.
-- Assumed all recorded interactions were accurate and complete.
-- Focused only on relevant events to create a clean, meaningful analysis.
-- First purchases determined cohort assignment.
-- No retention calculated for cohorts impacted by missing/incomplete data (e.g., February 2021).
+**Learnings**
+
+<br>•Complaint analysis reveals hidden breakdowns in customer experience.
+<br>•Trend analysis helps predict peak problem periods.
+<br>•Operational delays often stem from manual processes (mail, referrals).
+<br>•Data inconsistencies require strong cleaning and transformation before visualization.
+
+**Assumptions**
+
+<br>•Complaints accurately reflect customer sentiment and service quality.
+<br>•Missing values were handled consistently and do not bias results.
+<br>•Date Received is the best indicator for trend analysis..
 
 ---
 
 ##  Final Thoughts
 
-This project developed my skills in cleaning e-commerce datasets, building conversion funnels, segmenting user cohorts, and calculating retention — all essential capabilities for data-driven decision-making in an e-commerce environment.
+This project strengthened my ability to work with large, real-world financial datasets, including cleaning unstructured text fields, standardizing categorical variables, and preparing multi-year complaint data for analysis. I gained hands-on experience in identifying product-level trends, evaluating operational performance, and measuring response timeliness — all of which are essential skills for analytics roles in the financial services industry.
+
+I also deepened my understanding of how complaint data can uncover hidden customer experience issues, highlight regional performance gaps, and reveal early indicators of compliance risks. Through dashboard development and exploratory analysis, I practiced transforming raw data into insights that support clear, actionable decision-making.
+
+By leveraging dashboards, data modeling, and visualization, Bank of America leadership can transition to proactive decision-making, identify root causes, and implement long-term improvements in service quality.
+
 
 
 
