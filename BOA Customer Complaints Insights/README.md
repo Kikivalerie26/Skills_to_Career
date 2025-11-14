@@ -83,23 +83,23 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 | Column Name | Description |
 |-------------|-------------|
 | `complaint_id` | Unique identifier for each customer |
-| `complaint_channel` | Type of channel complaint was submitted: web, phone, email, fax, referral, postal mail. |
-| `date_submitted` | Date consumer submitted the complaint. |
-| `date_received` |The date the CFPB received the complaint. |
-| `state_abbrv` | Two-letter state abbreviation. |
+| `complaint_channel` | Type of channel complaint was submitted: web, phone, email, fax, referral, postal mail |
+| `date_submitted` | Date consumer submitted the complaint |
+| `date_received` |The date the CFPB received the complaint |
+| `state_abbrv` | Two-letter state abbreviation |
 | `state_name` | Full state name |
-| `product` | Product price in USD |
-| `sub_product` | Date of user activity (YYYY-MM-DD) |
-| `issue` | Product price in USD |
-| `sub_issue` | Date of user activity (YYYY-MM-DD) |
-| `company_public` | Product price in USD |
-| `company_response_to_consumer` | Date of user activity (YYYY-MM-DD) |
-| `timely_response` | Product price in USD |
-| `positive_resolution_flag` | Date of user activity (YYYY-MM-DD) |
-| `timely_flag` | Product price in USD |
-| `received_days` | Date of user activity (YYYY-MM-DD) |
-| `year` | Product price in USD |
-| `month` | Date of user activity (YYYY-MM-DD) |
+| `product` | The financial product category (e.g., mortgage, credit card) |
+| `sub_product` | Specific product within main category |
+| `issue` | The primary issue the consumer experienced (e.g., incorrect credit reporting, dispute error) |
+| `sub_issue` | Additional details about the issue |
+| `company_public` | Public-facing response from the company |
+| `company_response_to_consumer` | How the company resolved or responded to the customer |
+| `timely_response` | Whether the company responded within the required timeframe |
+| `positive_resolution_flag` | Binary indicator representing if the outcome was positive |
+| `timely_flag` | Binary flag indicating timely response (1 = Yes, 0 = No) |
+| `received_days` | Days between complaint submission and official receipt |
+| `year` | Year extracted from Date Received |
+| `month` | Month extracted from Date Received |
 
 ---
 
