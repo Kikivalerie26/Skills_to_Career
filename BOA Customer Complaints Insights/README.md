@@ -2,32 +2,51 @@
 # Bank of America Customer Insight Project
 **Financial Services – Consumer Complaint Analysis (2017–2023)**
 
-The goal is to uncover actionable insights into **customer dissatisfaction**, **complaint patterns**, **service breakdowns**, and **overall responsiveness**.
-It was completed as a Financial Data analyst onboarding project.
+This project analyzes consumer complaints submitted against Bank of America to the Consumer Financial Protection Bureau (CFPB) from 2017 to 2023.
+The goal is to uncover patterns in **customer dissatisfaction**, **complaint patterns**, **service breakdowns**, **overall responsiveness**, **operational bottlenecks**, **response delays**, and **regulatory risks**- ultimately providing insights that can guide better decision-making in the financial services sector.
+It was completed as a Financial Data analyst project.
 
 ---
 
 ##  Project Overview
 
-This project analyzes Bank of America consumer complaints submitted to the Consumer Financial Protection Bureau (CFPB) between 2017 and 2023.
+Bank of America, one of the largest financial institutions in the United States, receives a consistently high volume of consumer complaints across products such as credit cards, deposits, mortgages, loans, and credit reporting.
 
-The dataset provided captured customer-submitted complaints across multiple financial products, complaint categories, submission channels, company response types, geographic locations, and resolution timeliness. These records offer a detailed view into how customers experience Bank of America’s financial services and how effectively the organization responds.
+This project leverages seven years of CFPB complaint data to:
+<br>•Identify which products and issues generate the most complaints
+<br>•Analyze geographic and demographic complaint patterns
+<br>•Assess response timeliness and resolution quality
+<br>•Compare the effectiveness of complaint submission channels
+<br>•Provide data-driven recommendations for process and service improvements
 
-Bank of America is one of the largest financial institutions in the U.S., yet continues to receive a high volume of complaints regarding credit cards, mortgages, loans, deposits, and credit reporting.
-These complaints highlight challenges around:
+---
+## Methodology
 
-**Customer experience and transparency**
-<br>•Confusing fees, unclear communication, and unsatisfactory resolutions.
+The project followed a structured analytical workflow:
+1.**Data Extraction**
+Imported CFPB complaint data filtered for Bank of America from 2017–2023.
 
-**Operational efficiency**
-<br>•Delays in processing disputes, loan applications, or transaction issues.
+2.**Data Cleaning & Preparation**
+<br>•Standardized date formats
+<br>•Filled missing values
+<br>•Cleaned text fields
+<br>•Removed duplicates
+<br>•Added calculated fields (resolution speed, region categories)
 
-**Compliance and regulatory performance**
-<br>•Concerns about fair credit reporting, improper charges, and regulation breaches.
+3.**Exploratory Data Analysis (EDA)**
+<br>•Complaint distribution by year
+<br>•Top products & issues
+<br>•Resolution categories
+<br>•Response timeliness
+<br>•Complaint submission channels
+<br>•Geographic patterns
 
-**Service delays and ineffective resolutions**
-<br>•Slow response times and inconsistent outcomes impacting customer satisfaction.
-   
+4.**Visualization & Dashboard Development**
+<br>•Dashboards created using Power BI.
+
+5.**Insights & Recommendations**
+Identified root issues, regional anomalies, and operational improvement oppurtunities
+
 ---
 
 ##  Tools Used
