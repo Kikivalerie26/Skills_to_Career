@@ -18,8 +18,10 @@ These complaints highlight challenges around:
 
 **Customer experience and transparency**
 <br>•Confusing fees, unclear communication, and unsatisfactory resolutions.
+
 **Operational efficiency**
 <br>•Delays in processing disputes, loan applications, or transaction issues.
+
 **Compliance and regulatory performance**
 <br>•Concerns about fair credit reporting, improper charges, and regulation breaches.
 **Service delays and ineffective resolutions**
