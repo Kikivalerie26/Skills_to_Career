@@ -117,8 +117,8 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 
 | Sheet Name | Description |
 |------------|-------------|
-| `Business Problem Report` | Structured documentation outlining the core business problem, project goals, and the purpose of each analytical component |
-| `Cleaned and Transformed Dataset Report` | High-level summary of the cleaning steps, and the and key insights |
+| `Business Problem Report`| Structured documentation outlining the core business problem, project goals, and the purpose of each analytical component |
+| `Cleaned and Transformed Dataset Report`| High-level summary of the cleaning steps, and the and key insights |
 | `Interactive Dashboard` | A multi-page Power BI dashboard visualizing complaint trends, product issues, geographic distribution, and responsiveness metrics |
 | `Insights & Recommendation Report` | A detailed interpretation of insights across products, issues, regions, and channels, along with data-driven recommendations to improve service quality and reduce complaints |
 | `Executive Summary` | A high-level overview of dataset performance metrics, key findings, major complaint drivers, and overall patterns identified during the analysis |
