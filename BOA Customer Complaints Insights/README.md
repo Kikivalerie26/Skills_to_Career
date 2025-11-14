@@ -82,12 +82,24 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 
 | Column Name | Description |
 |-------------|-------------|
-| `user_id` | Unique identifier for each customer |
-| `event_type` | Type of event: product view, cart open, or purchase |
-| `category_code` | Product category code |
-| `brand` | Brand name of the product |
-| `price` | Product price in USD |
-| `event_date` | Date of user activity (YYYY-MM-DD) |
+| `complaint_id` | Unique identifier for each customer |
+| `complaint_channel` | Type of event: product view, cart open, or purchase |
+| `date_submitted` | Product category code |
+| `date_received` | Brand name of the product |
+| `state_abbrv` | Product price in USD |
+| `state_name` | Date of user activity (YYYY-MM-DD) |
+| `product` | Product price in USD |
+| `sub_product` | Date of user activity (YYYY-MM-DD) |
+| `issue` | Product price in USD |
+| `sub_issue` | Date of user activity (YYYY-MM-DD) |
+| `company_public` | Product price in USD |
+| `company_response_to_consumer` | Date of user activity (YYYY-MM-DD) |
+| `timely_response` | Product price in USD |
+| `positive_resolution_flag` | Date of user activity (YYYY-MM-DD) |
+| `timely_flag` | Product price in USD |
+| `received_days` | Date of user activity (YYYY-MM-DD) |
+| `year` | Product price in USD |
+| `month` | Date of user activity (YYYY-MM-DD) |
 
 ---
 
