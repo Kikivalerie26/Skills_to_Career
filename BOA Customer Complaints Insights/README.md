@@ -103,16 +103,6 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 
 ---
 
-##  Analysis
-
-| Section | Description |
-|---------|-------------|
-| **Raw Data** | The dataset represents user interactions with an e-commerce platform, capturing different event types related to product engagement. The key fields include `user_id`, `event_type`, `category_code`, `brand`, `price`, and `event_date`. The time range analyzed spans from **September 24, 2020 to September 28, 2021**. For meaningful insights, only relevant portions of the dataset — specifically `user_id`, `event_date`, and `event_type` — were used. |
-| **Conversion Funnel** | To analyze how users interact with the website, the primary focus was on **purchase events** from the `event_type` field. It was assumed that all interactions were recorded without missing data. Each `user_id` represents a distinct individual, and multiple interactions are recorded as separate rows. |
-| **Retention Rates** | To build cohorts and calculate monthly retention rates, the primary focus was on the `user_id`, `first_purchase_month`, and `cohort_age` attributes from the `purchase_activity` sheet. Due to incomplete data for **February 2021**, no retention rate was calculated for that cohort. |
-
----
-
 ##  Final Deliverables
 
 | Sheet Name | Description |
@@ -120,7 +110,7 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 | `Business Problem Report`| Structured documentation outlining the core business problem, project goals, and the purpose of each analytical component |
 | `Cleaned and Transformed Dataset Report`| High-level summary of the cleaning steps, and the and key insights |
 | `Interactive Dashboard` | A multi-page Power BI dashboard visualizing complaint trends, product issues, geographic distribution, and responsiveness metrics |
-| `Insights & Recommendation Report` | A detailed interpretation of insights across products, issues, regions, and channels, along with data-driven recommendations to improve service quality and reduce complaints |
+| `Insights & Recommendation Report`| A detailed interpretation of insights across products, issues, regions, and channels, along with data-driven recommendations to improve service quality and reduce complaints |
 | `Executive Summary` | A high-level overview of dataset performance metrics, key findings, major complaint drivers, and overall patterns identified during the analysis |
 
 
