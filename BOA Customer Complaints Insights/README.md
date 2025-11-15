@@ -136,11 +136,11 @@ Majority of issues relate to incorrect information, fraud disputes, and account 
 
 ##  Final Thoughts
 
-This project strengthened my ability to work with large, real-world financial datasets, including cleaning unstructured text fields, standardizing categorical variables, and preparing multi-year complaint data for analysis. I gained hands-on experience in identifying product-level trends, evaluating operational performance, and measuring response timeliness — all of which are essential skills for analytics roles in the financial services industry.
+This project strengthened my ability to work with large, real-world financial datasets, including cleaning unstructured text fields, standardizing categorical variables, and preparing multi-year complaint data for analysis. I gained hands-on experience in identifying product-level trends, evaluating operational performance, and measuring response timeliness- all of which are essential skills for analytics roles in the financial services industry.
 
-I also deepened my understanding of how complaint data can uncover hidden customer experience issues, highlight regional performance gaps, and reveal early indicators of compliance risks. Through dashboard development and exploratory analysis, I practiced transforming raw data into insights that support clear, actionable decision-making.
+Additionally, I developed a deeper understanding of how complaint data can reveal underlying customer experience issues, regional performance disparities, and early indicators of compliance risk. By creating dashboards and performing exploratory analysis, I honed my skills in transforming raw data into actionable insights that drive informed decision-making.
 
-By leveraging dashboards, data modeling, and visualization, Bank of America leadership can transition to proactive decision-making, identify root causes, and implement long-term improvements in service quality.
+Leveraging data modeling, feature engineering, and visual analytics, this project demonstrates how Bank of America leadership can adopt a proactive approach to complaint management, address root causes, and implement long-term improvements in service quality and customer satisfaction.
 
 
 
