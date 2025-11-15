@@ -25,7 +25,8 @@ This project leverages seven years of CFPB complaint data to:
 The project followed a structured analytical workflow:
 
 1.**Data Extraction**
-Imported CFPB complaint data filtered for Bank of America from 2017–2023.
+
+<br>•Imported CFPB complaint data filtered for Bank of America from 2017–2023.
 
 2.**Data Cleaning & Preparation**
 <br>•Standardized date formats
